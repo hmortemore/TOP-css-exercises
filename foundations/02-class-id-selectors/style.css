@@ -1,0 +1,19 @@
+.OddElements {
+    background-color: #ffb6c1;
+    font-family: 'Verdana','DejaVu Sans','sans-serif';
+}
+
+#Element2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#Element3 {
+    font-size: 24px;
+}
+
+#Element4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
